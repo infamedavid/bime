@@ -1,2 +1,2 @@
 # BIME
-Blender Image Management Environmnt
+Blender Image Management Environment
